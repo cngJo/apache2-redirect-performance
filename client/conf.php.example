@@ -1,0 +1,4 @@
+<?php
+
+define("SERVER_HOST", "");
+define("SERVER_USER", "");
